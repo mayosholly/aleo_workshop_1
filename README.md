@@ -12,3 +12,10 @@ To execute this Aleo program, run:
 snarkvm run hello
 ```
 # aleo_workshop_1
+
+leo new hello
+
+
+leo run mint_private address integer bit (100u64)
+
+
